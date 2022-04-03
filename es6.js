@@ -69,6 +69,8 @@ console.log(student["age"]);
 console.log(student[myName]);
 
 
+//Hello Hadi
+
 
 
 
